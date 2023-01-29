@@ -1,0 +1,19 @@
+.classes {
+    background-color: #f0808098;
+    font-family: Verdana, sans-serif;
+}
+
+.classes.two {
+    font-size: 24px;
+}
+
+#id_two {
+    color: blue;
+    font-size: 36px;
+}
+
+#id_four {
+    background-color: lime;
+    font-size: 24px;
+    font-weight: bold;
+}
